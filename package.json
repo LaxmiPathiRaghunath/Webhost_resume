@@ -1,7 +1,7 @@
 {
   "name": "raghunath-portfolio",
   "version": "1.0.0",
-  "homepage": "https://LaxmiPathiRaghunath.github.io/Webhost_resume",
+  "homepage": "https://www.amigos.solutions",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
